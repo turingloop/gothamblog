@@ -1,6 +1,6 @@
 ---
 title: PowerHammer: Exfiltrating Data from Air-Gapped Computers through Power Lines
-type: post
+layout: post
 categories: cybersecurity
 ---
 
