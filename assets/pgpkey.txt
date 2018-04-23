@@ -1,16 +1,3 @@
----
-layout: page
-title: Connect
-permalink: /connect/
----
-
-`Goutham Neravetla`
-===================
-`goutham` at `kurtgodel` . `com`.
-
-PGP key:
-
-~~~
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFrP3WYBEADmXoqj2E4bj+oc6nZdZ/KoYOqW2obgx76BthBNLTdZHsTAgCpB
@@ -62,5 +49,3 @@ MmFzs9H5dqSPqsr+ConJs8ruQ+zJRxB5Zn5572ljyUQhEQwF0v138iFi0u5YX7jA
 63PzPgJgyOEUB7hFFpKq4igCpT19DVY/uEF9urSPQg==
 =CvtM
 -----END PGP PUBLIC KEY BLOCK-----
-
-~~~
