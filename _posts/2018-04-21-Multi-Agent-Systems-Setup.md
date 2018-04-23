@@ -182,6 +182,10 @@ Once you cloned the repository that was given to you by Dr. Denise Case, you nee
 
 + **Consortium for Computing Sciences in Colleges(CCSC):** This a bigger conference where Computer Science students from various colleges participate in posters and presentation competitions. This is an annual conference. You can find complete information at: [www.ccsc.org](http://www.ccsc.org) Make sure you register, and also most importantly **_DON'T FORGET TO SUBMIT THE ABSTRACT!_** At any scientific conference that you are presenting, you register and and you also need to submit abstract. Make sure to contact the person responsible for handing abstracts.
 
+# Conclusion:
+
+Please note this is not comprehensive. However, this should get you started. I will also be adding more about how to write the capabilities in java, and how the everything ties together. If there are any mistakes, please do contact me, i will edit the page. My Contact info is below. 
+
 # Contact:
 
 + If you have any questions, please do email me, i will respond usually within 24 hours unless i am busy, or if it is weekend, or i am on vacation.
