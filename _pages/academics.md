@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academics
+title: Academics (Computer Science)
 permalink: /academics/
 ---
 
