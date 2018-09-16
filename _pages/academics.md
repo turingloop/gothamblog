@@ -23,10 +23,10 @@ permalink: /academics/
 + Operating Systems
 + Programming Languages
 + Software Engineering 1
-+ Some Advanced Elective
++ Big Data
 
 #### Courses I will be finishing in Spring 2019:
 
 + Software Engineering 2
-+ Some Advanced Elective 1
-+ Some Advanced Elective 2
++ Machine Learning
++ Differential Equations
