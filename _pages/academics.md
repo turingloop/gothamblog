@@ -12,7 +12,7 @@ permalink: /academics/
 + Internet Of Things
 + Computer Organization
 + Algorithms
-+ Independent Study(Multi Agent Systems)
++ Independent Study (Multi Agent Systems)
 + Calculus 1 and 2
 + Applied Matrix Theory
 + Discrete Mathematics
@@ -21,12 +21,12 @@ permalink: /academics/
 #### Courses I will be finishing in Fall 2018:
 
 + Operating Systems
-+ Programming Languages
-+ Software Engineering 1
++ Theory & Implementation of Programming Languages
++ Software Engineering Principles
 + Big Data
 
 #### Courses I will be finishing in Spring 2019:
 
-+ Software Engineering 2
++ Software Engineering Practicum
 + Machine Learning
 + Differential Equations
