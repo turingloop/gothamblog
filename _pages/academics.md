@@ -18,14 +18,14 @@ permalink: /academics/
 + Discrete Mathematics
 + Probability and Statistics
 
-#### Courses I will be finishing in Fall 2018:
+#### Courses I am currently taking in Fall 2018:
 
 + Operating Systems
 + Theory & Implementation of Programming Languages
 + Software Engineering Principles
 + Big Data
 
-#### Courses I will be finishing in Spring 2019:
+#### Courses I will be taking in Spring 2019:
 
 + Software Engineering Practicum
 + Machine Learning
