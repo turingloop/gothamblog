@@ -7,7 +7,7 @@ permalink: /connect/
 Goutham Neravetla
 ===================
 
-**Email:** `goutham` at `kurtgodel` . `com` and my PGP key: [pgpkey.txt](/assets/pgpkey.txt)
+**Email:** `gr` at `goutham` . `net` and my PGP key: [pgpkey.txt](/assets/pgpkey.txt)
 
 **Github:** [https://github.com/turingloop](https://github.com/turingloop)
 
