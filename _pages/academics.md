@@ -17,9 +17,6 @@ permalink: /academics/
 + Applied Matrix Theory
 + Discrete Mathematics
 + Probability and Statistics
-
-#### Courses I am currently taking in Fall 2018:
-
 + Operating Systems
 + Theory & Implementation of Programming Languages
 + Software Engineering Principles
