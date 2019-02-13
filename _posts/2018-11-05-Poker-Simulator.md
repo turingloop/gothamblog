@@ -4,7 +4,7 @@ title: Poker Simulator
 categories: multiagentsystems
 ---
 
-This software validates different poker card patterns and decides which poker card pattern has the highest value. This needs to be modularised and a lot of documentation needs to be added. But it works.
+This software validates different poker card patterns and decides which poker card pattern has the highest value. I wrote this for a research project. This needs to be modularised and a lot of documentation needs to be added. But it works.
 
 {% highlight JAVA %}
 
